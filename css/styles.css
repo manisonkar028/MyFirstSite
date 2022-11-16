@@ -1,0 +1,125 @@
+body{
+    color:#40514e;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color:#66bfbf;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color:#66bfbf;
+    font-size:2.5rem ;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999e;
+    font-weight: normal;
+}
+
+ p{
+    line-height: 2;
+ }
+ hr{
+    border-style:  none;
+    border-top-style: dotted;
+    border-color: #59C1BD;
+    border-width: 5px;
+    width:10%;
+} 
+a{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin:10px 20px ;
+    text-decoration: none;
+   }
+   a:hover{
+    color:#eaf6f6;
+   }
+   .copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+   }
+.top-container{
+    background-color:#e4f9f5 ; 
+    position: relative;
+    padding-top: 100px;  
+}
+.middle-container{
+    margin : 100px 0;
+   
+}
+.bottom-container{
+    background-color: #66bfbf;
+}
+.pro{
+    text-decoration: underline;
+}
+.tcloud{
+    position: absolute;
+    top: 40px;
+    right: 150px;
+}
+.bcloud{
+    position: absolute;  
+    left:50px;
+    bottom: 300px;
+}
+.skill-row{
+    width: 40%;
+    position: relative;
+    margin:  100px auto 100px  auto;
+    text-align: left;
+}
+.pencil{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.computer{
+width: 25%;
+float:right;
+margin-left: 30px;
+}
+.profile{
+    margin: 100px auto 100px auto;
+}
+.intro{
+    width:30%;
+    margin: auto;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    font-size:15px;
+    font-family:'Montserrat', sans-serif;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#fff;
+    border-color:rgba(4, 60, 230, 1);
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    box-shadow: 0px 0px 0px 2px rgba(47, 71, 143, 1);
+    text-shadow: 0px 1px 0px rgba(25, 26, 31, 1);
+    background:linear-gradient(rgba(22, 93, 224, 1), rgba(109, 145, 189, 1));
+  }
+  
+  .btn:hover {
+    background: linear-gradient(rgba(109, 145, 189, 1), rgba(22, 93, 224, 1));
+  }
+ 
+                
+  
+  
